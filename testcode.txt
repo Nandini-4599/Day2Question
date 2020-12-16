@@ -1,0 +1,3 @@
+input -> min=1
+max=5
+output -> 2,3,5
