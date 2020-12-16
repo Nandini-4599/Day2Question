@@ -41,6 +41,7 @@ namespace Prime
                 if (flag == 1)
                     Console.WriteLine(i);
             }
+            Console.WriteLine("Hello from Nancy B");
         }
     }
 }
