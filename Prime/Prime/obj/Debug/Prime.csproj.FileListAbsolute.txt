@@ -1,0 +1,7 @@
+F:\Git Practice\Day2Assignment\Prime\Prime\bin\Debug\Prime.exe.config
+F:\Git Practice\Day2Assignment\Prime\Prime\bin\Debug\Prime.exe
+F:\Git Practice\Day2Assignment\Prime\Prime\bin\Debug\Prime.pdb
+F:\Git Practice\Day2Assignment\Prime\Prime\obj\Debug\Prime.csprojAssemblyReference.cache
+F:\Git Practice\Day2Assignment\Prime\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+F:\Git Practice\Day2Assignment\Prime\Prime\obj\Debug\Prime.exe
+F:\Git Practice\Day2Assignment\Prime\Prime\obj\Debug\Prime.pdb
